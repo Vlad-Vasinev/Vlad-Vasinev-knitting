@@ -3151,7 +3151,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 .bin {
     cursor: pointer;
-    max-width: 40px;
+    width: 40px;
     min-height: 40px;
     position: relative;
     color: #fff;
